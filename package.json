@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "JSON package for Twitter game",
+  "main": "Twitter.js",
+  "scripts": {
+    "start": "node Twitter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Lambert",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
